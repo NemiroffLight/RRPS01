@@ -1,5 +1,5 @@
 # Лабораторна робота №1 з РРПС
-![The Alma Mater Logo](https://github.com/NemiroffLight/RRPS01/blob/a0a0d6fb27fb6cd28610f10eb20e78cc619df61c/ZTU_Logo.png)
+![The Alma Mater Logo](https://media.ztu.edu.ua/wp-content/uploads/2020/02/Group-6-1-1536x465.png)
 
 Виконання лабораторної роботи передбачає вивчення прийомів роботи з системою контролю версій **Git**:
 - створення віддаленого репозиторію;
